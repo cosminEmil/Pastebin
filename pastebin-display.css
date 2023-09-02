@@ -1,0 +1,16 @@
+#closeTab {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    height: 50px;
+    width: 50px;
+    font-size: x-small;
+}
+
+p {
+    height: 30%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    width: 500px;
+}
